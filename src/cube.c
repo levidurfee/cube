@@ -28,6 +28,7 @@ void print_cube(int size, int *cube) {
             }
             nl();
         }
+        nl();
     }
 }
 
